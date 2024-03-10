@@ -14,3 +14,5 @@ Daftar perintah GiT
 4. git add:menyiapkan Semua file ke tahap staging
 5. git commit: menyiapkan file ke tahap staging
 6. git push: Melakukan perubahan pada branch berdasarkan file yang berada di tahap staging
+7. git merge: membuat branch yang bercabang menjadi satu kembali
+8. git pull: mengambil perubahan yang ada di remote repository dan akan langsung melakukan merge ke local repository
